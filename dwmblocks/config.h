@@ -4,6 +4,7 @@ static const Block blocks[] = {
 /*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
   {"",  "nettraf",  1,  16},
   {"", "cpu", 5, 12},
+  {"", "notifications", 3, 15},
   {"", "kde-connect", 5, 13},
   {"", "microphone", 1, 11}, 
   {"",  "volume", 1,  10},
